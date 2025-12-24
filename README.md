@@ -2,6 +2,7 @@
 
 Reads file from microSD card -> displays text on MAX7219 4-in-1 display.
 
+![scrolling text video](readme_files/scrolling_text_video.webp)
 ### Hardware used
 
 - Arduino Leonardo
