@@ -2,8 +2,6 @@
 
 Reads file from microSD card -> displays text on MAX7219 4-in-1 display.
 
----
-
 ### Hardware used
 
 - Arduino Leonardo
