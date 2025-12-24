@@ -1,6 +1,15 @@
 #include <LedControl.h>
 #include <SD.h>
 
+// it is also possible ot use the SPI protocol:
+// this allows for faster scrolling,
+// MD_Parola also contains built-in fonts.
+// displayText however does not allow for continues scrolling ;(
+// which is why I am not using it
+// #include <MD_Parola.h>
+// #include <MD_MAX72xx.h>
+// #include <SPI.h>
+
 
 // LED display pins
 const int DIN_PIN = 11;
