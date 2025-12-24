@@ -12,6 +12,8 @@ Reads file from microSD card -> displays text on MAX7219 4-in-1 display.
 - Micro SD Card Mini TF Card Reader Module
 
 
+### Wiring
+
 | Component      | Pin Name | Leonardo Pin |
 | -------------- | -------- | ------------ |
 | SD Card Module | VCC      | 5V           |
